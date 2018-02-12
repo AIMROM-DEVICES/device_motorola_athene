@@ -1,0 +1,26 @@
+[
+  {
+    "repository":  "AIMROM-DEVICES/kernel_motorola_msm8952",
+    "target_path": "kernel/motorola/msm8952"
+  },
+  {
+    "repository": "AIMROM-DEVICES/external_bson",
+    "target_path": "external/bson"
+  },
+  {
+    "repository": "AIMROM-DEVICES/external_stlport",
+    "target_path": "external/stlport"
+  },
+  {
+    "repository": "AIMROM-DEVICES/device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "AIMROM-DEVICES/packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  },
+  {
+    "repository": "AIMROM-DEVICES/vendor_motorola",
+    "target_path": "vendor/motorola"
+  }
+]
