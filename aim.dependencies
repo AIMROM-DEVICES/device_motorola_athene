@@ -20,7 +20,7 @@
     "target_path": "packages/resources/devicesettings"
   },
   {
-    "repository": "AIMROM-DEVICES/vendor_motorola",
+    "repository": "AIMROM-DEVICES/vendor_motorola_athene",
     "target_path": "vendor/motorola"
   }
 ]
